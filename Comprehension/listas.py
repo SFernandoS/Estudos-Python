@@ -17,4 +17,4 @@ print([atleta.title() for atleta in pessoas]) # Recebe uma lista e cria uma nova
 # Exemplo 3:
 
 #Uma lista com um 'for' para gerá-la controlada por um condicional quer verifica se os numeros gerados são par
-print(f'São pares {[numero for numero in range(1,10) if not numero % 2]}'
+print(f'São pares {[numero for numero in range(1,10) if not numero % 2]}')
