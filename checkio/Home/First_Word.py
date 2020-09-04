@@ -1,5 +1,5 @@
 """ 
-    https://py.checkio.org/mission/first-word/solve/
+    https://py.checkio.org/en/first-word/
 """
 
 def first_word(text: str) -> str:

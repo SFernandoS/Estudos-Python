@@ -1,5 +1,5 @@
 """
-    https://py.checkio.org/mission/right-to-left/solve/
+    https://py.checkio.org/en/right-to-left/
 """
 
 def left_join(phrases: tuple) -> str:

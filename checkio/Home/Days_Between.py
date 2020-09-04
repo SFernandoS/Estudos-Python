@@ -1,5 +1,5 @@
 """ 
-    https://py.checkio.org/mission/days-diff/solve/
+    https://py.checkio.org/en/days-diff/
 """
 
 from datetime import date
